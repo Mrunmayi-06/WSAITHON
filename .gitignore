@@ -1,0 +1,9 @@
+data/raw/
+output/
+
+*.csv
+*.pkl
+*.joblib
+
+__pycache__/
+.env
