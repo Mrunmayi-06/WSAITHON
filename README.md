@@ -27,3 +27,6 @@ Launch dashboard using: streamlit run app.py
 Note: The dataset is not included due to its large size. The model is trained locally using full data. Sample data can be used for testing.
 
 This project demonstrates how machine learning and domain knowledge can be combined to make better business decisions in retail demand forecasting.
+
+Username admin
+Pssword admin123
